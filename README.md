@@ -1,4 +1,4 @@
-# SMS_Using_Intent
+
 ## Ex.No:6 Design an android application Send SMS using Intent.
 ## AIM:
 To create and design an android application Send SMS using Intent using Android Studio.
@@ -205,7 +205,8 @@ private void sendSMS(){
 ![image](https://github.com/Kulaganachi/SMS_Using_Intent/assets/133641126/e3c25165-84e0-40bd-a257-69f6a41b03f3)
 
 
-![image](https://github.com/Kulaganachi/SMS_Using_Intent/assets/133641126/037a154d-b52b-400a-817a-379118be114c)
+![image](https://github.com/Kulaganachi/SMS_Using_Intent/assets/133641126/c8abed8d-2856-4bdc-a41a-dc50f69ce498)
+
 
 
 ## RESULT
